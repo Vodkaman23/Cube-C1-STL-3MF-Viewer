@@ -1,0 +1,143 @@
+13:11:45  CubeVi C1 STL Viewer — 2026-02-23 13:11:45
+13:11:45  Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)]
+13:11:45  
+13:11:45  Settings loaded from C:\Users\aleks\OneDrive\Desktop\cubevi_stl_viewer\cubevi_settings.json
+13:11:45  OpenGL: AMD Radeon RX 9070 XT
+13:11:45  
+13:11:45  === Loading device calibration ===
+13:11:45    Found device config: C:\Users\aleks\AppData\Roaming\Cubestage\deviceConfig.json
+13:11:45    Device ID: ZX4478
+13:11:45    Calibration: slope=0.1016, interval=19.6046, x0=4.485010999999998
+13:11:45  
+13:11:45  === Setting up rendering ===
+13:11:45    Mesh shaders compiled
+13:11:45    Background shaders compiled
+13:11:45    Interlace shaders compiled
+13:11:45    Quilt FBO: 4320x1920
+13:11:45    Interlace FBO: 1440x2560
+13:11:45    All rendering setup complete
+13:11:45  
+13:11:45  === CubeVi Renderer Initialized ===
+13:11:45  Views: 16 (quilt 8x2)
+13:11:45  Quilt size: 4320x1920
+13:11:45  Tile size: 540x960
+13:11:45  Output size: 1440x2560
+13:11:45  Calibration: slope=0.1016, interval=19.6046, x0=4.485010999999998
+13:11:45  View blend: 0.70
+13:11:45  Gamma: 1.00
+13:11:45  Cubic blend: 0.00
+13:11:45  View cone: 40.0°
+13:11:45  View cone: 30.0°
+13:11:45  View blend: 0.00
+13:11:45  Gamma: 1.55
+13:11:45  
+13:11:45  === CubeVi STL Viewer Started ===
+13:11:45  Controls: L-drag=rotate, R-drag=pan, scroll=zoom, F=toggle C1, R=reset, S=save, Esc=quit
+13:11:45  
+13:11:45  === Display Setup ===
+13:11:45    Display 0 (\\.\DISPLAY2): 2560x1440 at (0,0)
+13:11:45    Display 1 (\\.\DISPLAY1): 1440x2560 at (2560,-636) <-- CubeVi C1
+13:11:45    Output window: 1440x2560 at (2560,-636)
+13:11:47  
+13:11:47  Loading: MultiColor+Print+Profile+-+chameleon.3mf
+13:11:47  
+13:11:47  === Loading F:/Test/output/MultiColor+Print+Profile+-+chameleon.3mf ===
+13:11:56  ✓ 3MF loaded: 1004112 triangles, 3012336 vertices, colors=no
+13:11:56  ✓ Extracted 3012336 vertices
+13:11:56  ✓ Model bounds:
+13:11:56    Center: [90.        91.18223    6.7156706]
+13:11:56    Size: [23.919067 62.526123 13.431341]
+13:11:56    Max dimension: 62.526
+13:11:56  ✓ Auto-scaled by 0.029
+13:11:56  ✓ GPU buffers created (uniform color)
+13:11:56  ✓ Model ready for rendering
+13:11:56  
+13:11:56  === Rendering quilt ===
+13:11:56  Rotation: pitch=0.0° yaw=0.0° roll=0.0°
+13:11:56  
+13:11:56  === Camera Setup (orbit + off-axis) ===
+13:11:56  Total views: 16 (8x2 grid)
+13:11:56  View cone: 30.0° (horizontal only)
+13:11:56  Orbit: yaw=0.0° pitch=0.0°
+13:11:56  Pivot: [0. 0. 0.]
+13:11:56  Focal distance: 3.12
+13:11:56  Lateral range: ±0.836
+13:11:56    View 0:   offset=-0.836  angle=-15.00°
+13:11:56    View 8: offset=+0.056  angle=1.02°
+13:11:56    View 15: offset=+0.836  angle=15.00°
+13:11:56    Rendered 16 views into quilt
+13:11:56    Interlaced to 1440x2560
+13:12:36  View count: 40 (quilt 8x5)
+13:12:41  View cone: 29.0°
+13:12:41  View cone: 28.0°
+13:12:41  View cone: 27.0°
+13:12:41  View cone: 26.0°
+13:12:41  View cone: 25.0°
+13:12:41  View cone: 24.0°
+13:12:41  View cone: 23.0°
+13:12:41  View cone: 22.0°
+13:12:41  View cone: 21.0°
+13:12:41  View cone: 20.0°
+13:12:44  View cone: 21.0°
+13:12:44  View cone: 22.0°
+13:12:44  View cone: 24.0°
+13:12:44  View cone: 25.0°
+13:12:44  View cone: 26.0°
+13:12:44  View cone: 27.0°
+13:12:44  View cone: 28.0°
+13:12:44  View cone: 29.0°
+13:12:44  View cone: 30.0°
+13:12:44  View cone: 31.0°
+13:12:44  View cone: 32.0°
+13:12:44  View cone: 33.0°
+13:12:44  View cone: 34.0°
+13:12:44  View cone: 35.0°
+13:12:44  View cone: 36.0°
+13:12:44  View cone: 37.0°
+13:12:44  View cone: 38.0°
+13:12:44  View cone: 39.0°
+13:12:44  View cone: 40.0°
+13:12:44  View cone: 41.0°
+13:12:44  View cone: 42.0°
+13:12:44  View cone: 43.0°
+13:12:44  View cone: 44.0°
+13:12:45  View cone: 45.0°
+13:12:45  View cone: 46.0°
+13:12:45  View cone: 47.0°
+13:12:45  View cone: 48.0°
+13:12:45  View cone: 49.0°
+13:12:45  View cone: 50.0°
+13:12:45  View cone: 51.0°
+13:12:45  View cone: 52.0°
+13:12:45  View cone: 53.0°
+13:12:45  View cone: 54.0°
+13:12:45  View cone: 55.0°
+13:12:45  View cone: 56.0°
+13:12:45  View cone: 57.0°
+13:12:45  View cone: 58.0°
+13:12:45  View cone: 59.0°
+13:12:45  View cone: 60.0°
+13:12:47  View cone: 59.0°
+13:12:47  View cone: 58.0°
+13:12:47  View cone: 53.0°
+13:12:47  View cone: 52.0°
+13:12:47  View cone: 51.0°
+13:12:47  View cone: 47.0°
+13:12:47  View cone: 46.0°
+13:12:47  View cone: 45.0°
+13:12:47  View cone: 42.0°
+13:12:47  View cone: 41.0°
+13:12:47  View cone: 38.0°
+13:12:47  View cone: 35.0°
+13:12:47  View cone: 33.0°
+13:12:47  View cone: 31.0°
+13:12:47  View cone: 30.0°
+13:12:47  View cone: 27.0°
+13:12:47  View cone: 26.0°
+13:12:48  View cone: 24.0°
+13:12:48  View cone: 22.0°
+13:12:48  View cone: 20.0°
+13:12:49  View count: 16 (quilt 8x2)
+13:14:08  View count: 8 (quilt 8x1)
+13:14:11  View count: 16 (quilt 8x2)
+13:14:57  Settings saved to C:\Users\aleks\OneDrive\Desktop\cubevi_stl_viewer\cubevi_settings.json

@@ -1,0 +1,8 @@
+PyQt5>=5.15.0
+moderngl>=5.8.0
+numpy>=1.21.0
+numpy-stl>=2.16.0
+pyrr>=0.10.3
+trimesh>=4.0.0
+lxml>=4.0.0
+pycryptodome>=3.15.0

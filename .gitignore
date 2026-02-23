@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated at runtime
+cubevi_viewer.log
+cubevi_settings.json
+cubevi_output.png
+
+# IDE / editor / AI
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
